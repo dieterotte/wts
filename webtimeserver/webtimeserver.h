@@ -12,6 +12,7 @@
 #include <signal.h>
 #include <time.h>
 
+// debug symbol comment
 #define DBG
 #include "../debug/dbg.h"
 
